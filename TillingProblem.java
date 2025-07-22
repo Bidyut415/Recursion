@@ -1,7 +1,7 @@
 public class TillingProblem {
   public static int tillingProblem(int n){
     //base case
-    if(n==0|| n==1){
+    if(n==0 || n==1){
       return 1;
     }
     //kamm means recursion
